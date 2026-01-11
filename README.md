@@ -9,7 +9,7 @@ Analysis of Ola ride booking data to understand customer behavior, booking trend
 
 ## Overview
 
-This project covers the complete data analysis workflow, starting from raw CSV data to final interactive dashboard insights. The data was cleaned, analyzed using SQL, and visualized through Power BI to make ride patterns, customer behavior, and payment trends easy to understand and useful for decision-making.
+This project covers the complete data analysis workflow, starting from raw CSV data to final interactive dashboard insights. The dataset was cleaned, analyzed using SQL, and visualized through Power BI to make ride patterns, customer behavior, and payment trends easy to understand and useful for decision-making.
 
 ---
 
@@ -104,20 +104,23 @@ An interactive Power BI dashboard presenting:
 
 ## How to Run the Project
 
-1. Clone the repository:
+1. Project Repository:
+   [https://github.com/katreujwal2004/ola-data-analytics-sql-excel-powerbi](https://github.com/katreujwal2004/ola-data-analytics-sql-excel-powerbi)
 
-   ```bash
- 🔗git clone https://github.com/katreujwal2004/ola-data-analytics-sql-excel-powerbi.git
-   ```
-2. Open the CSV file in Excel
-3. Execute SQL queries in MySQL or any compatible SQL environment
-4. Open the Power BI (`.pbix`) file to explore the dashboard
+2. Clone the repository:
+   git clone [https://github.com/katreujwal2004/ola-data-analytics-sql-excel-powerbi.git](https://github.com/katreujwal2004/ola-data-analytics-sql-excel-powerbi.git)
+
+3. Open the CSV file in Excel
+
+4. Execute SQL queries in MySQL or any compatible SQL environment
+
+5. Open the Power BI (.pbix) file to explore the dashboard
 
 ---
 
 ## Results & Conclusion
 
-This project demonstrates how raw Ola ride data can be transformed into meaningful insights using basic data analytics tools. It showcases practical skills in data cleaning, SQL querying, and dashboard development.
+This project demonstrates how raw Ola ride data can be transformed into meaningful insights using Excel, SQL, and Power BI. It showcases practical skills in data cleaning, SQL querying, and dashboard development.
 
 ---
 
