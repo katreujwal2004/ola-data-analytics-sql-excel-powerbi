@@ -1,5 +1,5 @@
 
-# Ola Data Analytics 🚖📊
+# Ola Data Analytics 
 
 ## Project Summary
 
