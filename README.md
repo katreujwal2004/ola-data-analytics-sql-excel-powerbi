@@ -107,8 +107,7 @@ An interactive Power BI dashboard presenting:
 1. Clone the repository:
 
    ```bash
- 🔗 [https://github.com/katreujwal2004/ola-data-analytics-sql-excel-powerbi](https://github.com/katreujwal2004/ola-data-analytics-sql-excel-powerbi)
-
+ 🔗git clone https://github.com/katreujwal2004/ola-data-analytics-sql-excel-powerbi.git
    ```
 2. Open the CSV file in Excel
 3. Execute SQL queries in MySQL or any compatible SQL environment
